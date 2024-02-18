@@ -1,0 +1,17 @@
+.option-btn {
+  padding: 5px;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+  transition: 0.3s;
+  min-height: 30px;
+  background-color: white;
+}
+.checked {
+  background-color: rgb(159, 84, 159);
+  color: white;
+  box-shadow: 3px 3px 4px 1px rgb(78, 69, 78);
+}
+.option-btn:hover {
+  background-color: rgb(212, 118, 212);
+}
